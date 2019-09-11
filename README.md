@@ -20,5 +20,7 @@ The "Last updated entry" field can be left as "New entry" for when including new
 A verification is made every 5 minutes, but you can change this on the configurations section. If there is an update, a message is sent to the specified Discord channel containing the name, date and link of the last entry.
 
 You can add and remove entries with "!add" and "!remove";
+
 Clear the chat with "!clear";
+
 And check the last entry for a single feed with "!check FeedName"
