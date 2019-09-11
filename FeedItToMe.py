@@ -24,7 +24,7 @@ And check the last entry for a single feed with "!check FeedName"
 TOKEN = 'YOUR TOKEN HERE'
 CHANNEL_ID = YOUR_DISCORD_CHANNEL_ID_HERE
 WAIT_TIME = 300
-FEED_FILE_PATH = "Feed.txt"
+FEED_FILE_PATH = "YOUR .txt FILE PATH HERE"
 ###
 
 
