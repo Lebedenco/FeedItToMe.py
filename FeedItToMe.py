@@ -12,7 +12,8 @@ Example: "PewDiePie;https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR
           Name;URL;Last updated entry
           ..."
 
-A verification is made every WAIT_TIME minutes. You can specify this WAIT_TIME below. If there is an update, a message is sent to the specified Discord channel containing the name, date and link of the last entry.
+A verification is made every WAIT_TIME minutes. You can specify this WAIT_TIME below. If there is an update, a message is sent 
+to the specified Discord channel containing the name, date and link of the last entry.
 You can add and remove entries with "!add" and "!remove";
 Clear the chat with "!clear";
 And check the last entry for a single feed with "!check FeedName"
